@@ -7,12 +7,10 @@
 - [x] usePreventLeave
 - [x] useConfirm
 - [x] useBeforeLeave
-- [ ] useFadeIn
-- [ ] useFullscreen
-- [ ] useNetwork
-- [ ] useNotification
-- [ ] useScroll
-- [ ] useAxios
+- [x] useFullscreen
+- [x] useNetwork
+- [x] useNotification
+- [x] useScroll
 
 ### useEffect
 
